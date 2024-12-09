@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdullah, a software Engineer
+
 
 
 
